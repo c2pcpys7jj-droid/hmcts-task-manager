@@ -36,6 +36,9 @@ The app will run on `http://localhost:5173`.
 - `DELETE /api/tasks/:id` - Delete a task
 
 ## Running Tests
+
+The test suite covers task creation, validation, updating and deletion.
+
 To run the backend Jest tests:
 ```bash
 cd backend
